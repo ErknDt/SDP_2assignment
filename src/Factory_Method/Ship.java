@@ -1,0 +1,9 @@
+package Factory_Method;
+
+public class Ship implements Transport {
+
+    @Override
+    public void deliver() {
+        System.out.println("Delivering cargo by sea using a ship.");
+    }
+}
