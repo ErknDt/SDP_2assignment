@@ -40,4 +40,4 @@ Each concrete factory creates a consistent family of related GUI components.
 
 ## Author
 
-Kuat Allazhar Talgatuly
+Dautbekov Yerkhan
